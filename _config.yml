@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -49,13 +49,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: v56b87@gmail.com
+  github: https://github.com/Cheng-Bin
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github: 
   weibo: 
   zhihu: 
   pocket:
